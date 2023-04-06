@@ -1,5 +1,5 @@
-# <i> Menu Interativo em C</i>👨🏻‍💻
-<p align="justify">Menu de interação feito em linguagem C.</p>
+# <i> Menu Interativo em C++</i>👨🏻‍💻
+<p align="justify">Menu de interação feito em linguagem C++.</p>
 
 <h4 align="center">
 
