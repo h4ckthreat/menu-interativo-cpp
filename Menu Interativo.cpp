@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <iostream>
-#include "lost.h"
+#include "hackthreat.h"
 using namespace std;
 
 int main()
@@ -11,7 +11,7 @@ int main()
     {
         do
         {
-            pula(0,0); // pula(0,0) ao inves de system cls, para o texto se sobreescrever ao inves de apagar tudo e começar denovo
+            pula(0,0); // pula(0,0) ao inves de system cls, para o texto se sobreescrever ao inves de apagar tudo e comeÃ§ar denovo
             if(pos == 1)colorizar(F_VERDE_C);cout << " ITEM 1 \n";
             colorizar(VERDE_C);
             if(pos == 2)colorizar(F_VERDE_C);cout << " ITEM 2 \n";
