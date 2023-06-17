@@ -1,6 +1,6 @@
 # <i> Menu Interativo em C++</i>👨🏻‍💻
 
-O código é um programa simples que exibe um menu com cinco opções numeradas de 1 a 5 e permite que o usuário selecione uma opção usando as 'teclas direcionais do teclado', e selecionar uma opção usando a tecla 'ENTER'. Vou descrever o que o código faz passo a passo:
+O código é um programa simples que exibe um menu interativo com cinco opções numeradas de 1 a 5 e permite que o usuário selecione uma opção usando as teclas direcionais do teclado, e selecionar uma opção usando a tecla ENTER. Vou descrever o que o código faz passo a passo:
 
 1. Inclui as bibliotecas `stdlib.h`, `conio.h`, `iostream` e "hackthreat.h".
 
